@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About - Fatuum</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Fatuum</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="products.html">Products</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="content">
+      <h2>About Us</h2>
+      <p>Fatuum is a growing brand that offers high-quality clothing and various products to customers who value style, comfort, and affordability.</p>
+      <p>We are committed to providing excellent customer service and keeping up with the latest fashion trends while offering other useful products to our community.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Fatuum. All rights reserved.</p>
+  </footer>
+</body>
+</html>
